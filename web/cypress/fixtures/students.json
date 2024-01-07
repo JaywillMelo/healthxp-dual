@@ -26,5 +26,26 @@
         "age": "",
         "weight": "",
         "feet_tall": ""
+    },
+    "under_16_years": {
+        "name": "Kevin Rodrigues",
+        "email": "kevin@teste.com",
+        "age": "15",
+        "weight": "72",
+        "feet_tall": "1.80"
+    },
+    "inv_weight": {
+        "name": "Raimundo Isaac",
+        "email": "Isaac@teste.com",
+        "age": "34",
+        "weight": "-5",
+        "feet_tall": "1.80"
+    },
+    "inv_feet_tall": {
+        "name": "Brenda Lix",
+        "email": "lix@teste.com",
+        "age": "34",
+        "weight": "72",
+        "feet_tall": "0"
     }
 }
